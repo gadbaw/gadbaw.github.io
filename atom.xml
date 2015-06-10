@@ -4,7 +4,7 @@
   <title><![CDATA[Gadbaw]]></title>
   <link href="http://gadbaw.github.io/atom.xml" rel="self"/>
   <link href="http://gadbaw.github.io/"/>
-  <updated>2015-06-10T16:47:17-04:00</updated>
+  <updated>2015-06-10T17:05:28-04:00</updated>
   <id>http://gadbaw.github.io/</id>
   <author>
     <name><![CDATA[Benjamin Gadbaw]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <title type="html"><![CDATA[My Second Post on Octopress]]></title>
+    <link href="http://gadbaw.github.io/blog/2015/06/10/my-second-post-on-octopress/"/>
+    <updated>2015-06-10T17:02:53-04:00</updated>
+    <id>http://gadbaw.github.io/blog/2015/06/10/my-second-post-on-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Does Dance Have to Do With Learning Ruby?]]></title>
     <link href="http://gadbaw.github.io/blog/2015/06/10/my-first-post-on-octopress/"/>
     <updated>2015-06-10T16:44:43-04:00</updated>
     <id>http://gadbaw.github.io/blog/2015/06/10/my-first-post-on-octopress</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hi.&rdquo;</p>
+    <content type="html"><![CDATA[<p>&ldquo;Well a few things actually&hellip;&rdquo;</p>
 ]]></content>
   </entry>
   
